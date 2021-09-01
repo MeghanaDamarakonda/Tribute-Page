@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+#title{
+    text-align: center;
+
+}
+#img-div{
+    text-align: center;
+    background-color: white;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size:18px;
+    padding: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: teal;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+#tribute-info{
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
+    width: 50%;
+}
+ul{
+    list-style-type: square;
+    margin-top: 30px;
+}
+h2{
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    padding: 10px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color:lavender;
+}
+#two{
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+h3{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:teal;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color:rebeccapurple;
+    padding-top: 10px;
+  
+}
+#one{
+color:teal;
+font-family: 'Ubuntu', sans-serif;
+font-size: 16px;
+padding-bottom: 20px;
+
+}
+img{
+    width:100%;
+    height:auto;
+    max-width: 600px;
+}
